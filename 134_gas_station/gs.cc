@@ -3,5 +3,5 @@
 
 int gs(const std::vector<int> &gas, const std::vector<int> &cost)
 {
-   return -1;
+    return -1;
 }
