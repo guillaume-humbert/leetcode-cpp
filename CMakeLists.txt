@@ -8,4 +8,5 @@ enable_testing()
 
 add_subdirectory(1_two_sum)
 add_subdirectory(134_gas_station)
+add_subdirectory(198_house_robber)
 add_subdirectory(gfg_knapsack_problem)
